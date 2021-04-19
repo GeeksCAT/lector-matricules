@@ -4,3 +4,5 @@ yolov5/
 /yolov5m.pt
 /yolov5l.pt
 /yolov5x.pt
+datasets/
+*.zip
